@@ -1,1 +1,3 @@
 # Recommendation-System-with-Apriori
+
+Association Rule is a technique in order to find patterns in dataset. It lets us know about item relationships that enable us to relate internal item to item or item to items and items to items, In association rule, it depends on user minimum support threshold, and minimum confidence for rule generation, for example, if we try to find a pattern in Fruit Groceries dataset we can use this technique for recommending to users when they by { Apple } it will recommend { Pear } when they buy { Citrus } it will recommend us to by {Orang, grape fruits, mandarins } this recommend based on user purchase history experience in dataset.
